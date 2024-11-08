@@ -1,0 +1,43 @@
+.completeform {
+    background-color: white;
+    width: 90%;
+    height: auto;
+    margin: 20px auto;
+    border-radius: 5px;
+    border: 1px solid darkgrey;
+}
+
+.headform {
+    background-color: rgb(243, 238, 238);
+    border-radius: 5px 5px 0 0;
+    border-bottom: 1px solid darkgrey;
+    padding: 5px;
+}
+
+.footer {
+    background-color: rgb(243, 238, 238);
+    border-top: 1px solid darkgrey;
+    padding: 5px;
+}
+.footer-icons{
+    display: inline;
+    padding: 5px;
+}
+
+.cards-icons {
+    background-color: rgb(111, 113, 111);
+    width: fit-content;
+    margin-top: 10px;
+    border-radius: 5px;
+    padding: 5px;
+    color: white;
+}
+
+p {
+    color: rgb(115, 112, 112);
+}
+h3 {
+    margin-left: 10px;
+}
+
+
